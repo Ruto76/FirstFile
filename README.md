@@ -1,6 +1,6 @@
 ## 👏 Hi, Ruby Torres Allende!
 ##  About Me
-I am a student in Professor Mitra's Cybersecurity class. I have an Associate's degree in Science. I am currently majoring in Cybersecurity ans Computer Science.
+I am a student in Professor Mitra's Cybersecurity class. I have an Associate's degree in Science. I am currently majoring in Cybersecurity and Computer Science.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)

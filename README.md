@@ -10,6 +10,6 @@ I am a student in Professor Mitra's Cybersecurity class. I have an Associate's d
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 [![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#)
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Ruto76)
 
 _"'Cause this is thriller, thriller night."_
